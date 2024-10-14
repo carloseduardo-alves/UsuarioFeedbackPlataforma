@@ -68,8 +68,7 @@ Antes de executar o projeto, você precisará ter instalado em seu ambiente:
 3. Configure a string de conexão com o banco de dados no arquivo appsettings.json:
    ```bash
    "ConnectionStrings": {
-   "DefaultConnection": "Server=SEU_SERVIDOR; Database=UsuarioFeedbackDB; Trusted_Connection=True;"
-}
+   "DefaultConnection": "Server=SEU_SERVIDOR; Database=UsuarioFeedbackDB; Trusted_Connection=True;"}
 
 4. Restaure as dependências:
    ```bash
