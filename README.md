@@ -31,7 +31,7 @@ Este projeto é uma plataforma de feedback de usuários, desenvolvida em **ASP.N
 - **Entity Framework Core** para persistência de dados
 - **FluentValidation** para validação dos dados de entrada
 - **Swagger** para documentação da API
-- **Banco de Dados**: SQL Server (ou outro de sua escolha)
+- **Banco de Dados**: SQL Server
 
 ## Arquitetura
 
