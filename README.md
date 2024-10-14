@@ -29,7 +29,7 @@ Este projeto é uma plataforma de feedback de usuários, desenvolvida em **ASP.N
 - **CQRS com MediatR** para separação de comandos e consultas
 - **Repository Pattern** para abstração do acesso ao banco de dados
 - **Entity Framework Core** para persistência de dados
-- **FluentValidation** para validação dos dados de entrada
+- **Fluent Validation** para validação dos dados de entrada
 - **Swagger** para documentação da API
 - **Banco de Dados**: SQL Server
 
